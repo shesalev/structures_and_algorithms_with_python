@@ -1,1 +1,1 @@
-# structures_and_algorithms_with_python
+# Notes by Hands-On Data Structures and Algorithms with Python
